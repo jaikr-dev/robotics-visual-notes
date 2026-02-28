@@ -1,19 +1,5 @@
 import { useState, useRef, useEffect, useCallback } from "react";
-
-const FONTS_CSS = `
-@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU+Guides&family=Playwrite+NZ+Basic&display=swap');
-`;
-
-const BG = "#f5f0e8";
-const ORANGE = "#ff6d00";
-const ORANGE_LIGHT = "#ffab40";
-const BLACK = "#1a1a1a";
-const BORDER = `3px solid ${BLACK}`;
-const SHADOW = `5px 5px 0px ${BLACK}`;
-const TEAL = "#00bfa5";
-const LOCK_RED = "#c62828";
-const GREEN = "#2e7d32";
-const PURPLE = "#6a1b9a";
+import { FONTS_CSS, BG, ORANGE, ORANGE_LIGHT, BLACK, BORDER, SHADOW, TEAL, LOCK_RED, GREEN, PURPLE } from "../../styles";
 
 function InfoOverlay({ onClose }: { onClose: () => void }) {
   return (
