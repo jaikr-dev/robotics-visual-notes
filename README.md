@@ -10,7 +10,7 @@ This is not a textbook and it won't cover everything. These are my notes. I'm bu
 
 | Topic | Writeup | Interactive Demo |
 |-------|---------|------------------|
-| Grubler's Formula | [PDF](topics/grublers-formula/grublers-formula.pdf) / [LaTeX](topics/grublers-formula/grublers-formula.tex) | [Demo](https://jaikr-dev.github.io/robotics-visual-notes/) |
+| Grubler's Formula | [PDF](topics/grublers-formula/grublers-formula.pdf) / [LaTeX](topics/grublers-formula/grublers-formula.tex) | [Demo](https://jaikr-dev.github.io/robotics-visual-notes/#/grublers-formula) |
 
 ## Structure
 
